@@ -26,7 +26,7 @@ Explore the live preview of the project [here](https://suhel-code-aesthetics.net
 
 To use this front-end template:
 
-1. Clone the project: `git clone <repository-url>`
+1. Clone the project: `git clone https://github.com/Suhelpatel786/gpt_3.git`
 2. Install dependencies using yarn: `yarn install`
 3. Start the project: `yarn start`
 
